@@ -1,4 +1,5 @@
 == README
+* Read me updated by Anil - following the intructions from the book - http://ruby.railstutorial.org/book/ruby-on-rails-tutorial 
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
